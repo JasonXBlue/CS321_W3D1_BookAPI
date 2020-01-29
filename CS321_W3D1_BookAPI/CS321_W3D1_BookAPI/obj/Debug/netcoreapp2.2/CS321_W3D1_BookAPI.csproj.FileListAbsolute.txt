@@ -1,0 +1,16 @@
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/bin/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.deps.json
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/bin/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.runtimeconfig.json
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/bin/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.runtimeconfig.dev.json
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/bin/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.dll
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/bin/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.pdb
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.csprojAssemblyReference.cache
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.RazorAssemblyInfo.cache
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.RazorAssemblyInfo.cs
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.AssemblyInfoInputs.cache
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.AssemblyInfo.cs
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.RazorTargetAssemblyInfo.cache
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.dll
+/Users/jasonblue/Desktop/DevFolder321Main/CS321_W3D1_BookAPI/CS321_W3D1_BookAPI/obj/Debug/netcoreapp2.2/CS321_W3D1_BookAPI.pdb
