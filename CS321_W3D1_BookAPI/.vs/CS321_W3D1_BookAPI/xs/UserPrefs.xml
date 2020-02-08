@@ -1,14 +1,31 @@
 ﻿<Properties StartupConfiguration="{A4A6184C-EF56-4C94-8318-C8D84CE96441}|Default">
-  <MonoDevelop.Ide.ItemProperties.CS321__W3D1__BookAPI FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CS321__W3D1__BookAPI PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS321_W3D1_BookAPI/Controllers/BooksController.cs">
+    <Files>
+      <File FileName="CS321_W3D1_BookAPI/Models/Book.cs" Line="7" Column="6" />
+      <File FileName="CS321_W3D1_BookAPI/Data/BookContext.cs" Line="13" Column="44" />
+      <File FileName="CS321_W3D1_BookAPI/Services/IBookService.cs" Line="13" Column="20" />
+      <File FileName="CS321_W3D1_BookAPI/Services/BookService.cs" Line="22" Column="12" />
+      <File FileName="CS321_W3D1_BookAPI/Startup.cs" Line="30" Column="50" />
+      <File FileName="CS321_W3D1_BookAPI/Controllers/BooksController.cs" Line="77" Column="32" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CS321_W3D1_BookAPI" expanded="True">
             <Node name="CS321_W3D1_BookAPI" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="ValuesController.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True" />
               </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="BooksController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
